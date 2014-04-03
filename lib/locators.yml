@@ -1,0 +1,6 @@
+---
+height_text_field: {id:  'heightCMS'}
+weight_text_field: {id: 'weightKg'}
+calculate_button: {id: 'Calculate'}
+bmi_text_field: {id: 'bmi'}
+category_text_field: {id: 'bmi_category'}
